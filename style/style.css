@@ -270,6 +270,9 @@ footer {
         align-items: center;
         margin-bottom: 30px;
     }
+    .news__img {
+        margin-right: 0;
+    }
 }
 
 @media (max-width: 840px) {
