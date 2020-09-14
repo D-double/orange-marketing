@@ -13,6 +13,13 @@
     width: 100%;
 }
 
+@media(max-width: 1140px) {
+    .container {
+        max-width: 1140px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+}
 .row {
     display: flex;
     flex-wrap: wrap;
